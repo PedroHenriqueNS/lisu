@@ -1,0 +1,6 @@
+export { default as LottieReactAnimation } from './lottie-react-animation.json'
+export { default as FramerMotionAnimation } from './framer-motion-animation.json'
+export { default as TanStackAnimation } from './tanstack-animation.json'
+export { default as ReactUSEAnimation } from './react-use-animation.json'
+export { default as ZustandAnimation } from './zustand-animation.json'
+export { default as AxiosAnimation } from './axios-animation.json'
